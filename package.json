@@ -1,0 +1,22 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "it just a test of node js",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node-dev index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shane2003s/HC-thehubs-Demo-.git"
+  },
+  "author": "Shane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shane2003s/HC-thehubs-Demo-/issues"
+  },
+  "homepage": "https://github.com/Shane2003s/HC-thehubs-Demo-#readme",
+  "dependencies": {
+    "ts-node-dev": "^2.0.0"
+  }
+}
